@@ -23,12 +23,7 @@ On [npm-compare.com](https://npm-compare.com/), you’ll find:
 
 - **Real-time package statistics** — including weekly downloads, GitHub stars, size, open issues, last publish date, license, and more  
 - **Trend charts** for both npm downloads and GitHub stars — helping you spot growth or decline at a glance  
-- **Feature comparison tables** — compare packages or frameworks (like React, Vue, Angular, Svelte) across multiple dimensions:  
-  - Architecture  
-  - Data Binding  
-  - Learning Curve  
-  - Performance  
-  - Community & Ecosystem  
+- **Feature comparison tables** — compare packages or frameworks (like React, Vue, Angular, Svelte) across multiple dimensions
 - **Guidance on selection** — understand which package might fit your scenario best  
 - **Similar package suggestions** — discover alternatives and related projects easily  
 
@@ -75,7 +70,7 @@ Preview:
 ## 💬 Feedback & Feature Requests
 
 We’d love to hear from you!  
-If you have ideas for new features, improvements, or integrations, please [open an issue](https://github.com/cwtuan/npm-compare.com/issues) or share your feedback.
+If you have ideas for new features, improvements, or integrations, please [open an issue](https://github.com/awesome-npm/npm-compare.com/issues) or share your feedback.
 
 ---
 
