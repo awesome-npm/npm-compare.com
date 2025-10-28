@@ -52,23 +52,15 @@ You can easily embed **live npm download** or **GitHub star** trends in your own
 Markdown:
 
 ```markdown
-## Usage Trend
 
 [![Usage Trend of @ai-sdk/openai](https://npm-compare.com/img/npm-trend/THREE_YEARS/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai#timeRange=THREE_YEARS)
-
-## GitHub Stars Trend
 
 [![GitHub Stars Trend of @ai-sdk/openai](https://npm-compare.com/img/github-trend/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai)
 ```
 
 Preview:
 
-
-## Usage Trend
-
 [![Usage Trend of @ai-sdk/openai](https://npm-compare.com/img/npm-trend/THREE_YEARS/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai#timeRange=THREE_YEARS)
-
-## GitHub Stars Trend
 
 [![GitHub Stars Trend of @ai-sdk/openai](https://npm-compare.com/img/github-trend/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai)
 ---
