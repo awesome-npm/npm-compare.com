@@ -27,8 +27,10 @@ On [npm-compare.com](https://npm-compare.com/), you’ll find:
 - **Guidance on selection** — understand which package might fit your scenario best  
 - **Similar package suggestions** — discover alternatives and related projects easily  
 
-Example:  
-👉 https://npm-compare.com/@angular/core,react,svelte,vue
+Examples:  
+- [Node.js ORM Libraries Comparison](https://npm-compare.com/bookshelf,knex,sequelize,typeorm)
+- [Vue UI Component Libraries Comparison](https://npm-compare.com/ant-design-vue,element-ui,tdesign-vue,vuetify)
+- [Web Development Frameworks Comparison](https://npm-compare.com/@sveltejs/kit,astro,gatsby,next,remix)
 
 ---
 
@@ -47,24 +49,28 @@ We help you answer questions like:
 
 You can easily embed **live npm download** or **GitHub star** trends in your own project’s README:
 
-Example:
+Markdown:
 
-```
-### Usage Trend
-[![Usage Trend of react](https://npm-compare.com/img/npm-trend/THREE_YEARS/react.png)](https://npm-compare.com/react#timeRange=THREE_YEARS)
+```markdown
+## Usage Trend
 
-### GitHub Stars Trend
-[![GitHub Stars Trend of react](https://npm-compare.com/img/github-trend/react.png)](https://npm-compare.com/react)
+[![Usage Trend of @ai-sdk/openai](https://npm-compare.com/img/npm-trend/THREE_YEARS/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai#timeRange=THREE_YEARS)
+
+## GitHub Stars Trend
+
+[![GitHub Stars Trend of @ai-sdk/openai](https://npm-compare.com/img/github-trend/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai)
 ```
 
 Preview:
 
-### Usage Trend
-[![Usage Trend of react](https://npm-compare.com/img/npm-trend/THREE_YEARS/react.png)](https://npm-compare.com/react#timeRange=THREE_YEARS)
 
-### GitHub Stars Trend
-[![GitHub Stars Trend of react](https://npm-compare.com/img/github-trend/react.png)](https://npm-compare.com/react)
+## Usage Trend
 
+[![Usage Trend of @ai-sdk/openai](https://npm-compare.com/img/npm-trend/THREE_YEARS/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai#timeRange=THREE_YEARS)
+
+## GitHub Stars Trend
+
+[![GitHub Stars Trend of @ai-sdk/openai](https://npm-compare.com/img/github-trend/@ai-sdk/openai.png)](https://npm-compare.com/@ai-sdk/openai)
 ---
 
 ## 💬 Feedback & Feature Requests
